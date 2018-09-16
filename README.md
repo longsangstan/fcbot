@@ -1,6 +1,6 @@
 # FCBot
 
-<img src="./img/fcbot-screenshot.png" width="250" />
+<img src="./img/screenshot.png" width="250" />
 
 A Telegram bot to send football media links posted in r/soccer to FanschatTG.
 
